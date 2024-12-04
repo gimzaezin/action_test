@@ -12,5 +12,6 @@ public class Main {
         System.out.println("QSSSSQQQQQQ");
         System.out.println("aafdqef3q");
         System.out.println("aaaa");
+        System.out.println("aafwe");
     }
 }
