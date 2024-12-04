@@ -9,5 +9,6 @@ public class Main {
         System.out.println("aaaaa");
         System.out.println("VVVVVAAAAAa");
         System.out.println("QQQQQQ");
+        System.out.println("QSSSSQQQQQQ");
     }
 }
