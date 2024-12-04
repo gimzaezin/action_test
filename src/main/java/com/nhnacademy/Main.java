@@ -13,5 +13,7 @@ public class Main {
         System.out.println("aafdqef3q");
         System.out.println("aaaa");
         System.out.println("aafwe");
+
+        System.out.println("aaaaaa");
     }
 }
